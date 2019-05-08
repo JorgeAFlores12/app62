@@ -6,9 +6,9 @@ version = "1.0.0">
 
 <name>app6 Deslizar hacia la izquierda y a la derecha</name>
 
-<descripcion>
+<description>
 Aplicacion que realiza el swipe o deslizamiento en el dispositivo
-</descripción>
+</description>
 
 <author href="https://build.phonegap.com" email="cb16.flores.cordero.jorge@gmail.com">
 Jorge Alberto Flores Cordero
